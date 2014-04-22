@@ -1,0 +1,11 @@
+D:\cocoin\aws-sdk-net\AWSSDK_DotNet35\bin\Release\AWSSDK.xml
+D:\cocoin\aws-sdk-net\AWSSDK_DotNet35\bin\Release\AWSSDK.dll
+D:\cocoin\aws-sdk-net\AWSSDK_DotNet35\bin\Release\AWSSDK.pdb
+D:\cocoin\aws-sdk-net\AWSSDK_DotNet35\obj\Release\AWSSDK_DotNet35.csprojResolveAssemblyReference.cache
+D:\cocoin\aws-sdk-net\AWSSDK_DotNet35\obj\Release\AWSSDK.dll
+D:\cocoin\aws-sdk-net\AWSSDK_DotNet35\obj\Release\AWSSDK.pdb
+D:\code\aws-sdk-net\AWSSDK_DotNet35\bin\Release\AWSSDK.xml
+D:\code\aws-sdk-net\AWSSDK_DotNet35\bin\Release\AWSSDK.dll
+D:\code\aws-sdk-net\AWSSDK_DotNet35\bin\Release\AWSSDK.pdb
+D:\code\aws-sdk-net\AWSSDK_DotNet35\obj\Release\AWSSDK.dll
+D:\code\aws-sdk-net\AWSSDK_DotNet35\obj\Release\AWSSDK.pdb
